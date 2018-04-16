@@ -11,3 +11,4 @@
 * [https://github.com/adam-p/adam-p.github.com](https://github.com/adam-p/adam-p.github.com)
 * <https://github.com/pages-themes/hacker>
 * <https://github.com/vicrucann/vicrucann.github.io>
+* [Markdown syntax](http://packetlife.net/media/library/16/Markdown.pdf)
