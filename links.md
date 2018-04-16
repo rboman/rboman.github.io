@@ -8,3 +8,4 @@
 ## Github pages
 * http://jmcglone.com/guides/github-pages/
 * https://jekyllrb.com/docs/github-pages/
+* https://github.com/adam-p/adam-p.github.com
