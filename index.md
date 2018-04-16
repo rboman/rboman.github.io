@@ -1,5 +1,3 @@
-# Romain BOMAN
-
 Senior Researcher - University of Liège 
 
 Dept of Aerospace and Mechanical Engineering
@@ -12,7 +10,29 @@ Office: B52/3 - Room +2/439
 
 ## Keywords
 
-Metafor, Finite Element Method, Numerical Simulation, Large Deformations, Arbitrary Lagrangian Eulerian Formalism (ALE), Contact, Friction, Lubrication, Iterative Solvers, Cold rolling, Roll forming, Roll levelling, Deep Drawing, Sheet Metal Forming,  Scientific Visualisation, VTK, Python, Qt, Computer Science, Object-Oriented Programming, C++, Design Patterns, Refactoring.
+Metafor, 
+Finite Element Method, 
+Numerical Simulation, 
+Large Deformations, 
+Arbitrary Lagrangian Eulerian Formalism (ALE), 
+Contact, 
+Friction, 
+Lubrication, 
+Iterative Solvers, 
+Cold rolling, 
+Roll forming, 
+Roll levelling, 
+Deep Drawing, 
+Sheet Metal Forming,  
+Scientific Visualisation, 
+VTK, 
+Python, 
+Qt, 
+Computer Science, 
+Object-Oriented Programming, 
+C++, 
+Design Patterns, 
+Refactoring.
 
 ## Useful links
 * [University of Liège](https://www.uliege.be/) - [Aerospace and Mechanical Engineering](http://www.am.uliege.be/)
