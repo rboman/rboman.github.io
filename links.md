@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Some links
 
 ## Social networks

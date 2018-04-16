@@ -1,4 +1,6 @@
+repository: rboman/rboman.github.io
 theme: jekyll-theme-hacker
+#theme: hacker
 title: Romain BOMAN
 description: my web
 show_downloads: false
