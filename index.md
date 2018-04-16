@@ -1,3 +1,5 @@
+<img src="romain_boman.jpg" alt="Me" style="float:right;height:180px;" />
+
 Senior Researcher - University of Liège 
 
 Dept of Aerospace and Mechanical Engineering
@@ -7,9 +9,9 @@ r.boman@uliege.be
 Tel: +32 4 366 91 85
 
 Office: B52/3 - Room +2/439
+
 <!---
 ![Romain BOMAN](romain_boman.jpg)
---->
 <table  style="width:100%">
 <tr>
   <td>
@@ -22,10 +24,8 @@ Office: B52/3 - Room +2/439 <br/>
   <td><img src="romain_boman.jpg" alt="Drawing" width="100"  /></td>
 </tr>
 </table>
+--->
 
-Pipo
-<img src="romain_boman.jpg" alt="Drawing" style="float:right;width:42px;height:42px;" />
-Pipo
 
 ## Keywords
 
