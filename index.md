@@ -33,7 +33,7 @@ Office: B52/3 - Room +2/439 <br/>
 
 ## Keywords
 
-Metafor, 
+[Metafor](metafor), 
 Finite Element Method, 
 Numerical Simulation, 
 Large Deformations, 
@@ -64,3 +64,9 @@ Refactoring.
 * Follow Metafor in [Social Networks](https://www.facebook.com/metafor.ulg/)!
 * [Other Links](links)
 * [Jekyll](jekyll)
+
+## Teaching
+* [math0024](class_math0024)
+* [math0471](class_math0471)
+* meca0464
+* FYP
