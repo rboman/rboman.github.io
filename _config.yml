@@ -1,5 +1,9 @@
-repository: rboman/rboman.github.io  # for local build on windows
+repository: rboman/rboman.github.io  # https://help.github.com/articles/repository-metadata-on-github-pages/
+markdown: kramdown # default with jekyll 3 - only choice with github-pages
 theme: jekyll-theme-hacker
 title: Romain BOMAN
 description: about me
 show_downloads: false
+permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-feed   # creates feed.xml
