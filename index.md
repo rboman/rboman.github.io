@@ -71,3 +71,11 @@ Refactoring.
 * [math0471 bis](math0471)
 * meca0464
 * FYP
+
+{{ site.github.helpurl }}
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
+
+

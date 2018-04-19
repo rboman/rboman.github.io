@@ -7,3 +7,4 @@ show_downloads: false
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed   # creates feed.xml
+#  - jekyll-github-metadata
