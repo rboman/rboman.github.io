@@ -14,23 +14,6 @@ Tel: +32 4 366 91 85
 
 Office: B52/3 - Room +2/439
 
-<!---
-![Romain BOMAN](romain_boman.jpg)
-<table  style="width:100%">
-<tr>
-  <td>
-  Senior Researcher - University of Liège <br/>
-Dept of Aerospace and Mechanical Engineering <br/>
-r.boman@uliege.be <br/>
-Tel: +32 4 366 91 85 <br/>
-Office: B52/3 - Room +2/439 <br/>
-  </td>
-  <td><img src="romain_boman.jpg" alt="Drawing" width="100"  /></td>
-</tr>
-</table>
---->
-
-
 ## Keywords
 
 [Metafor](metafor), 
@@ -72,10 +55,9 @@ Refactoring.
 * meca0464
 * FYP
 
-{{ site.github.helpurl }}
-
+<!--
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
-
+-->
 
