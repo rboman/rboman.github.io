@@ -36,25 +36,25 @@ Office: B52/3 - Room +2/439 <br/>
 [Metafor](metafor), 
 Finite Element Method, 
 Numerical Simulation, 
-Large Deformations, 
+Large Deformations,
+Solid Mechanics, 
 Arbitrary Lagrangian Eulerian Formalism (ALE), 
 Contact, 
 Friction, 
 Lubrication, 
 Iterative Solvers, 
+Metal Forming,
 Cold rolling, 
 Roll forming, 
 Roll levelling, 
 Deep Drawing, 
-Sheet Metal Forming,  
+Meshers, 
 Scientific Visualisation, 
 VTK, 
-Python, 
 Qt, 
-Computer Science, 
 Object-Oriented Programming, 
 C++, 
-Design Patterns, 
+Python, 
 Refactoring.
 
 ## Useful links
@@ -68,5 +68,6 @@ Refactoring.
 ## Teaching
 * [math0024](class_math0024)
 * [math0471](class_math0471)
+* [math0471 bis](math0471)
 * meca0464
 * FYP

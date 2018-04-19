@@ -1,6 +1,5 @@
-repository: rboman/rboman.github.io
+repository: rboman/rboman.github.io  # for local build on windows
 theme: jekyll-theme-hacker
-#theme: hacker
 title: Romain BOMAN
-description: my web
+description: about me
 show_downloads: false

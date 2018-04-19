@@ -20,7 +20,28 @@ sudo rm Gemfile.lock
 bundle exec jekyll serve
 ```
 
+## windows
+I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 
-<https://guides.github.com/features/mastering-markdown/>
 
-<https://jekyllrb.com/>
+## Tutorials
+- <https://24ways.org/2013/get-started-with-github-pages/>
+- <https://jekyllrb.com/>
+* <http://jmcglone.com/guides/github-pages/>
+* <https://jekyllrb.com/docs/github-pages/>
+* <https://github.com/vicrucann/vicrucann.github.io>
+
+## Github pages
+
+* <https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/>
+
+## Sites
+- <http://lea.verou.me/>
+* <https://github.com/adam-p/adam-p.github.com>
+
+## Themes
+* <https://github.com/pages-themes/hacker>
+
+## Markdown
+- <https://guides.github.com/features/mastering-markdown/>
+* [Markdown syntax](http://packetlife.net/media/library/16/Markdown.pdf)
