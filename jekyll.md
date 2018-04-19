@@ -30,6 +30,10 @@ I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 * <http://jmcglone.com/guides/github-pages/>
 * <https://jekyllrb.com/docs/github-pages/>
 * <https://github.com/vicrucann/vicrucann.github.io>
+* <http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/>
+* <http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/>
+* <http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/>
+
 
 ## Github pages
 
@@ -41,6 +45,7 @@ I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 
 ## Themes
 * <https://github.com/pages-themes/hacker>
+* <https://mmistakes.github.io/so-simple-theme/>
 
 ## Markdown
 - <https://guides.github.com/features/mastering-markdown/>
