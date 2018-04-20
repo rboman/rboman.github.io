@@ -39,6 +39,7 @@ I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 * <http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/>
 * <http://pixelcog.com/blog/2013/jekyll-from-scratch-core-architecture/>
 * <http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/>
+* <https://jekyllrb.com/tutorials/orderofinterpretation/>
 
 
 ## Github pages
@@ -48,6 +49,7 @@ I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 ## Sites
 * <http://lea.verou.me/>
 * <https://github.com/adam-p/adam-p.github.com>
+* <http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html>
 
 ## Themes
 * <https://github.com/pages-themes/hacker>
@@ -57,4 +59,5 @@ I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 * <https://guides.github.com/features/mastering-markdown/>
 * [Markdown syntax](http://packetlife.net/media/library/16/Markdown.pdf)
 * [YAML](https://en.wikipedia.org/wiki/YAML#Basic_components)
+* [Learn YAML](https://learnxinyminutes.com/docs/yaml/)
 * [SASS](https://sass-lang.com/guide)
