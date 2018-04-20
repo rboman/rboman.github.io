@@ -18,22 +18,37 @@
 
   <body>
 
+
+		<nav>
+      <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <!-- <li><a href="/metafor.html">Metafor</a></li> -->
+          <li><a href="https://github.com/rboman/rboman.github.io">Github</a></li>
+      </ul>
+  </nav>
+
+
     <header>
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
+<!--
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
             <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
           {% endif %}
-          <!--
+          
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-          -->
-        </section>
+          
+        </section>  
+      -->
       </div>
     </header>
+
+
+
 
     <div class="container">
       <section id="main_content">
@@ -41,7 +56,9 @@
       </section>
     </div>
 
-    <a href="/">Root</a> - <a href="https://github.com/rboman/rboman.github.io">Github</a>
+    <div class="container">
+      <a href="/">Root</a> - <a href="https://github.com/rboman/rboman.github.io">Github</a>
+    </div>
 
     {% if site.google_analytics %}
       <script>

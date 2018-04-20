@@ -25,4 +25,10 @@ Now, Metafor is a set of 33 libraries totalling 1400 C++ classes (more than 230k
 # Links
 - [Metafor website](http://metafor.ltas.ulg.ac.be/)
 - Follow Metafor in [Social Networks](https://www.facebook.com/metafor.ulg/)!
+- [Metafor Youtube Channel](https://www.youtube.com/channel/UC4G1VzsYVgcOGWiUVIEnmJg)
+- [My Youtube Channel](https://www.youtube.com/channel/UC4-Rk7WJnYR8Bbakv6gSwTw)
+
+# Examples
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rEJP7A6J6k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
