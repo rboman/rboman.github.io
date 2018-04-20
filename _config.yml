@@ -1,11 +1,13 @@
 repository: rboman/rboman.github.io  # https://help.github.com/articles/repository-metadata-on-github-pages/
-markdown: kramdown # default with jekyll 3 - only choice with github-pages
-theme: jekyll-theme-hacker
+#markdown: kramdown # default with jekyll 3 - only choice with github-pages
+#theme: jekyll-theme-hacker
 title: Romain BOMAN
 description: about me
-show_downloads: false
+author: Romain BOMAN
+#show_downloads: false
 #permalink: /:categories/:year/:month/:day/:title:output_ext # default
 permalink: /blog/:categories/:year/:month/:day/:title
 plugins:
-  - jekyll-feed   # creates feed.xml
+  - jekyll-seo-tag   # (required if theme is disabled)
+#  - jekyll-feed   # creates feed.xml 
 #  - jekyll-github-metadata
