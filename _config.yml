@@ -4,7 +4,8 @@ theme: jekyll-theme-hacker
 title: Romain BOMAN
 description: about me
 show_downloads: false
-permalink: /blog/:year/:month/:day/:title
+#permalink: /:categories/:year/:month/:day/:title:output_ext # default
+permalink: /blog/:categories/:year/:month/:day/:title
 plugins:
   - jekyll-feed   # creates feed.xml
 #  - jekyll-github-metadata

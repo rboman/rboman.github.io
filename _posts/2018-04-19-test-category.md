@@ -1,9 +1,9 @@
 ---
 layout: post
 author: R.Boman
-tags:
+categories:
   - jekyll
   - test
 ---
 
-Test 1, 2, ...
+Testing categories

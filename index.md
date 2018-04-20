@@ -47,6 +47,8 @@ Refactoring.
 * Follow Metafor in [Social Networks](https://www.facebook.com/metafor.ulg/)!
 * [Other Links](links)
 * [Jekyll](jekyll)
+* [Blog](blog)
+* [Playground](playground)
 
 ## Teaching
 * [math0024](class_math0024)
@@ -54,10 +56,3 @@ Refactoring.
 * [math0471 bis](math0471)
 * meca0464
 * FYP
-
-<!--
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
--->
-

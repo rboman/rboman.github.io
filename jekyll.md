@@ -4,7 +4,8 @@ layout: default
 
 # Jekyll
 
-## ubuntu
+This site is built with [github pages](https://pages.github.com/) which is based on [jekyll](https://jekyllrb.com/), a set of ruby modules ("gems") for the creation of static websites and blogs from templates ([liquid](https://github.com/Shopify/liquid/wiki)) and [markdown](https://daringfireball.net/projects/markdown/)/html5 files. 
+## Ubuntu
 
 ```
 sudo apt-get install ruby
@@ -19,14 +20,19 @@ sudo chmod -R a+rX /usr/local/bin/
 sudo rm Gemfile.lock
 bundle exec jekyll serve
 ```
+If `_config.yml` has changed, the site can be fully rebuit using:
+```
+bundle exec jekyll build
+```
 
-## windows
+
+## Windows
 I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 
 
 ## Tutorials
-- <https://24ways.org/2013/get-started-with-github-pages/>
-- <https://jekyllrb.com/>
+* <https://24ways.org/2013/get-started-with-github-pages/>
+* <https://jekyllrb.com/>
 * <http://jmcglone.com/guides/github-pages/>
 * <https://jekyllrb.com/docs/github-pages/>
 * <https://github.com/vicrucann/vicrucann.github.io>
@@ -40,13 +46,15 @@ I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 * <https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/>
 
 ## Sites
-- <http://lea.verou.me/>
+* <http://lea.verou.me/>
 * <https://github.com/adam-p/adam-p.github.com>
 
 ## Themes
 * <https://github.com/pages-themes/hacker>
 * <https://mmistakes.github.io/so-simple-theme/>
 
-## Markdown
-- <https://guides.github.com/features/mastering-markdown/>
+## Markdown/YAML
+* <https://guides.github.com/features/mastering-markdown/>
 * [Markdown syntax](http://packetlife.net/media/library/16/Markdown.pdf)
+* [YAML](https://en.wikipedia.org/wiki/YAML#Basic_components)
+* [SASS](https://sass-lang.com/guide)
