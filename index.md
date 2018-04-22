@@ -4,11 +4,11 @@ layout: default
 
 <img src="romain_boman.jpg" alt="Me" style="float:right;height:180px;" />
 
-Senior Researcher - University of Liège 
+Senior Researcher - [University of Liège](https://www.uliege.be/) 
 
-Dept of Aerospace and Mechanical Engineering
+[Dept of Aerospace and Mechanical Engineering](http://www.am.uliege.be/)
 
-r.boman@uliege.be
+<r.boman@uliege.be>
 
 Tel: +32 4 366 91 85
 
@@ -41,7 +41,6 @@ Python,
 Refactoring.
 
 ## Useful links
-* [University of Liège](https://www.uliege.be/) - [Aerospace and Mechanical Engineering](http://www.am.uliege.be/)
 * [Metafor](http://metafor.ltas.ulg.ac.be/) - our in-house FE code
 * [My publications](https://orbi.uliege.be/simple-search?query=%28%28uid%3Au180139%29%29&amp;title=+&amp;sort_by0=1&amp;order0=DESC&amp;sort_by1=3&amp;order1=ASC&amp;sort_by2=2&amp;order2=ASC)
 * Follow Metafor in [Social Networks](https://www.facebook.com/metafor.ulg/)!
