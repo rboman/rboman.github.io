@@ -50,6 +50,7 @@ I haven't used <https://jekyllrb.com/docs/windows/> but MSYS2.
 * <http://lea.verou.me/>
 * <https://github.com/adam-p/adam-p.github.com>
 * <http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html>
+* <http://dirk.eddelbuettel.com/blog/>
 
 ## Themes
 * <https://github.com/pages-themes/hacker>
