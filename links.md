@@ -21,6 +21,7 @@ layout: default
 * [ORCID](https://orcid.org/0000-0002-4883-0383)
 * [Garmin](https://connect.garmin.com/modern/profile/r_boman)
 * [Endomondo](https://www.endomondo.com/profile/5832558)
+* [last.fm](https://www.last.fm/fr/user/r_boman)
 * [Geneanet](https://gw.geneanet.org/bromain7)
 * [Google dashboard](https://myaccount.google.com/dashboard)
 
