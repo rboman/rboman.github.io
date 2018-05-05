@@ -8,10 +8,20 @@ layout: default
 * [Facebook](https://www.facebook.com/)
 * [Twitter](https://twitter.com/r_boman)
 * [Tumblr](http://rboman.tumblr.com/)
+* [Youtube](https://www.youtube.com/user/rboman75)
 * [Scoop-it](https://www.scoop.it/u/romain-boman)
-* [Google dashboard](https://myaccount.google.com/dashboard)
 * [Pinterest](https://www.pinterest.com/romainboman/)
-
+* [Flickr](https://www.flickr.com/photos/r_boman/)
+* [LinkedIn](https://be.linkedin.com/in/rboman)
+* [Slideshare](https://fr.slideshare.net/romainboman)
+* [Research Gate](https://www.researchgate.net/profile/Romain_Boman)
+* [Google+](https://plus.google.com/+RomainBoman)
+* [Google Scholar](https://scholar.google.be/citations?user=P6zCaCkAAAAJ)
+* [Academia](http://ulg.academia.edu/RomainBoman)
+* [ORCID](https://orcid.org/0000-0002-4883-0383)
+* [Endomondo](https://www.endomondo.com/profile/5832558)
+* [Geneanet](https://gw.geneanet.org/bromain7)
+* [Google dashboard](https://myaccount.google.com/dashboard)
 
 
 ## ULiège
