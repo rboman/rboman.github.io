@@ -15,6 +15,7 @@ layout: default
 * [LinkedIn](https://be.linkedin.com/in/rboman)
 * [Slideshare](https://fr.slideshare.net/romainboman)
 * [Research Gate](https://www.researchgate.net/profile/Romain_Boman)
+* [Mendeley](https://www.mendeley.com/profiles/romain-boman)
 * [Google+](https://plus.google.com/+RomainBoman)
 * [Google Scholar](https://scholar.google.be/citations?user=P6zCaCkAAAAJ)
 * [Academia](http://ulg.academia.edu/RomainBoman)
