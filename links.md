@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Some links
+# Links
 
 ## Social networks
 * [Facebook](https://www.facebook.com/)
