@@ -5,7 +5,7 @@ layout: default
 # Links
 
 ## Social networks
-* [Facebook](https://www.facebook.com/)
+* [Facebook](https://www.facebook.com/romain.boman)
 * [Twitter](https://twitter.com/r_boman)
 * [Tumblr](http://rboman.tumblr.com/)
 * [Youtube](https://www.youtube.com/user/rboman75)
@@ -21,6 +21,7 @@ layout: default
 * [Google Scholar](https://scholar.google.be/citations?user=P6zCaCkAAAAJ)
 * [Academia](http://ulg.academia.edu/RomainBoman)
 * [ORCID](https://orcid.org/0000-0002-4883-0383)
+* [Web of science](https://publons.com/researcher/1755595/romain-boman/)
 * [Garmin](https://connect.garmin.com/modern/profile/r_boman)
 * [Strava](https://www.strava.com/athletes/31404776)
 * [Endomondo](https://www.endomondo.com/profile/5832558)
