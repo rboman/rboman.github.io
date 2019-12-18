@@ -32,7 +32,7 @@ layout: default
 
 ## ULiège
 * [myULiege](https://my.uliege.be/)
-* [site FSA](https://www.facsa.uliege.be/) - [Intranet](https://www2.facsa.uliege.be/cms/c_253097/fr/fsa-intranet-facultaire)
+* [site FSA](https://www.facsa.uliege.be/) - [Intranet](https://my.fsa.uliege.be/) - [old](https://www2.facsa.uliege.be/cms/c_253097/fr/fsa-intranet-facultaire)
 * [dokuwiki A&M](http://www.serveuram.ulg.ac.be/)
 * [ULiege library](https://lib.uliege.be)
 * [LAM3](https://lam3.org/)
