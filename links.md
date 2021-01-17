@@ -37,7 +37,7 @@ layout: default
 * [ULiege library](https://lib.uliege.be)
 * [LAM3](https://lam3.org/)
 * [Metafor Facebook](https://www.facebook.com/metafor.ulg)
-* [Metafor Google+](https://plus.google.com/+MetaforULiege)
+<!-- * [Metafor Google+](https://plus.google.com/+MetaforULiege) -->
 * [booksc](http://booksc.org/)
 * [CUPS](http://localhost:631/)
 * [RICOH](http://139.165.121.149/)
