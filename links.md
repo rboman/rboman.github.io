@@ -32,12 +32,11 @@ layout: default
 
 ## ULiège
 * [myULiege](https://my.uliege.be/)
-* [site FSA](https://www.facsa.uliege.be/) - [Intranet](https://my.fsa.uliege.be/) - [old](https://www2.facsa.uliege.be/cms/c_253097/fr/fsa-intranet-facultaire)
+* [site FSA](https://www.fsa.uliege.be/) - [Intranet](https://my.fsa.uliege.be/)
 * [dokuwiki A&M](http://www.serveuram.ulg.ac.be/)
 * [ULiege library](https://lib.uliege.be)
 * [LAM3](https://lam3.org/)
 * [Metafor Facebook](https://www.facebook.com/metafor.ulg)
-<!-- * [Metafor Google+](https://plus.google.com/+MetaforULiege) -->
 * [booksc](http://booksc.org/)
 * [CUPS](http://localhost:631/)
 * [RICOH](http://139.165.121.149/)
