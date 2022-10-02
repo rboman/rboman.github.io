@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="romain_boman.jpg" alt="Me" style="float:right;height:180px;" />
+<img src="romain_boman.png" alt="Me" style="float:right;height:180px;" />
 
 Senior Researcher - [University of Liège](https://www.uliege.be/) 
 
