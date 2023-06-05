@@ -30,17 +30,11 @@ layout: default
 
 ## ULiège
 * [myULiege](https://my.uliege.be/)
-* [site FSA](https://www.fsa.uliege.be/) - [Intranet](https://my.fsa.uliege.be/)
-* [dokuwiki A&M](http://www.serveuram.ulg.ac.be/)
+* [FSA](https://www.fsa.uliege.be/) - [Intranet FSA](https://my.fsa.uliege.be/)
+* [pegase.ltas.ulg.ac.be](http://pegase.ltas.ulg.ac.be/)
 * [ULiege library](https://lib.uliege.be)
 * [LAM3](https://lam3.org/)
 * [Metafor Facebook](https://www.facebook.com/metafor.ulg)
-* [booksc](http://booksc.org/)
-* [CUPS](http://localhost:631/)
-* [RICOH](http://139.165.121.149/)
-
-## Home
-* [Proximus TV](https://www.proximustv.be/fr/)
 
 ## Fun
 * [Let me google it for you](http://lmgtfy.com/)
