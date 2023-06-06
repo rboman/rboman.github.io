@@ -4,11 +4,11 @@ layout: default
 
 <img src="romain_boman.png" alt="Me" style="float:right;height:180px;" />
 
-👨🏼‍🔬Senior Researcher <br />
+👨🏼‍🔬 Senior Researcher <br />
+🏢 [University of Liège](https://www.uliege.be/) - B52/3 - Room +2/439 <br />
 ✈️ [Dept of Aerospace and Mechanical Engineering](http://www.am.uliege.be/) <br />
 📧 <r.boman@uliege.be> <br />
-☎️ +32 4 366 91 85 <br />
-🏢 [University of Liège](https://www.uliege.be/) - B52/3 - Room +2/439 <br />
+☎️ +32 4 366 91 85
 
 <!--
 ## Keywords
