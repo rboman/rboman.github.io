@@ -33,8 +33,6 @@ layout: default
 * [FSA](https://www.fsa.uliege.be/) - [Intranet FSA](https://my.fsa.uliege.be/)
 * [pegase.ltas.ulg.ac.be](http://pegase.ltas.ulg.ac.be/)
 * [ULiege library](https://lib.uliege.be)
-* [LAM3](https://lam3.org/)
-* [Metafor Facebook](https://www.facebook.com/metafor.ulg)
 
 ## Fun
 * [Let me google it for you](http://lmgtfy.com/)
