@@ -12,7 +12,7 @@ layout: default
 ## ULiège
 * [myULiege](https://my.uliege.be/)
 * [FSA](https://www.fsa.uliege.be/) - [Intranet FSA](https://my.fsa.uliege.be/)
-* [pegase.ltas.ulg.ac.be](http://pegase.ltas.ulg.ac.be/)
+* [pegase.ltas.ulg.ac.be](http://pegase.ltas.ulg.ac.be/) - [siemens.uliege.be](http://siemens.uliege.be/)
 * [ULiege library](https://lib.uliege.be)
 
 ## Fun
