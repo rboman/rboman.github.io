@@ -4,7 +4,7 @@ layout: default
 
 <img src="romain_boman.png" alt="Me" style="float:right;height:180px;" />
 
-🔬 Senior Researcher <br />
+🔬 Associate Professor <br />
 🏢 [University of Liège](https://www.uliege.be/) - B52/3 - Room +2/439 <br />
 🧑🏻‍🔬 [School of Engineering](https://www.fsa.uliege.be/) <br />
 ✈️ [Dept of Aerospace and Mechanical Engineering](http://www.am.uliege.be/) <br />
